@@ -15,6 +15,8 @@ Two scenarios are compared:
 - **Control:** Bacteria reproduce, and mecA is transmitted only from parent cells to offspring (vertical transmission).
 - **Experiment:** The same conditions apply, with additional MGE transfer and transformation mechanisms (horizontal gene transfer).
 
+![Population dynamics experiment](analysis/population_dynamics_experiment.png)
+
 ## Objective
 
 To examine how horizontal gene transfer affects the dynamics and spread of antibiotic resistance in a bacterial population.
@@ -25,3 +27,4 @@ The results support the hypothesis that horizontal gene transfer accelerates the
 After 700 ticks, the experimental group reached 99.3% resistant bacteria, compared to only 4.1% in the control group. The statistical analysis showed a highly significant difference between the groups (p < 0.001).
 
 These findings demonstrate that MGE-mediated horizontal gene transfer can substantially accelerate the spread of mecA-mediated resistance in a bacterial population.
+
