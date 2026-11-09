@@ -1,5 +1,12 @@
 # mecA Antibiotic Resistance Model
 
+## Repository Structure
+
+- **`model/`** – NetLogo code for the agent-based model.
+- **`analysis/`** – Python code in Jupyter Notebooks for data analysis.
+- **`data/`** – Control and experimental datasets.
+- **`report/`** – Research report.
+
 ## Project Overview
 
 This project uses an agent-based NetLogo model to investigate the spread of mecA-mediated antibiotic resistance in a *Staphylococcus aureus* population.
